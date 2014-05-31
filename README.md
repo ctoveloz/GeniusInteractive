@@ -20,6 +20,9 @@ Usage:
   - Go to folder project
     ~ cd: folder/geniusinteractive
 
+  - Install Modules packeges
+    ~ npm install
+
   - Run Grunt
     ~ grunt
 

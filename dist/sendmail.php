@@ -5,7 +5,7 @@ $phone = $_POST['phone'];
 $email = $_POST['email'];
 $message = $_POST['message'];
 // define recipe email:
-$dest = "cristiano.veloz@majesticmedia.ca"; 
+$dest = "ctoveloz@gmail.com"; 
  
 // safe spam site identification:
 $headers = "From: $company <$email>\r\n";  
