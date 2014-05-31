@@ -18,7 +18,7 @@ Usage:
   - Open Console NodeJS
   
   - Go to folder project
-    ~ cd: folder/geniusinteractive
+    ~ cd folder/geniusinteractive
 
   - Install Modules packeges
     ~ npm install
